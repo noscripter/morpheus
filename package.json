@@ -33,7 +33,7 @@
     "downsize": "~0.0.8",
     "envify": "~3.2.0",
     "es6-promise": "~2.0.1",
-    "express": "~4.11.2",
+    "express": "~4.16.0",
     "flux-router-component": "~0.5.3",
     "fluxible": "~0.1.5",
     "fluxible-plugin-fetchr": "~0.2.1",
