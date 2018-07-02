@@ -36,7 +36,7 @@
     "express": "~4.11.2",
     "flux-router-component": "~0.5.3",
     "fluxible": "~0.1.5",
-    "fluxible-plugin-fetchr": "~0.2.1",
+    "fluxible-plugin-fetchr": "~0.3.0",
     "fluxible-plugin-routr": "~0.3.0",
     "front-matter": "~0.2.1",
     "glob": "~4.3.5",
