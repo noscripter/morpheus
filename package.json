@@ -53,7 +53,7 @@
     "rss": "~1.1.1",
     "serialize-javascript": "~1.0.0",
     "serve-favicon": "~2.2.0",
-    "underscore.string": "~3.0.2",
+    "underscore.string": "~3.3.5",
     "validator": "~3.28.0"
   },
   "devDependencies": {
